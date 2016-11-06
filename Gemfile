@@ -27,7 +27,7 @@ gem 'bootstrap-sass', '3.2.0.2'
 
 gem 'paperclip', '~> 3.1', '>= 3.1.4'
 
-gem "paperclip-dropbox", ">= 1.1.7"
+#gem "paperclip-dropbox", ">= 1.1.7"
 
 gem "figaro"
 
