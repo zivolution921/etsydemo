@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass', '3.2.0.2'
 
-gem 'paperclip', '~> 3.1', '>= 3.1.4'
+gem "paperclip", "~> 5.0.0"
 
 #gem "paperclip-dropbox", ">= 1.1.7"
 
